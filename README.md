@@ -1,6 +1,14 @@
 # Nashville-Housing-Data-Cleaning-Using-SQL
 This GitHub repository contains the SQL Data File and resources of project Nashville-Housing Data Cleaning.
 
+## Table Of Contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Utilized SQL Queries](#utilized-sql-queries)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [References](#references)
+
 ### Project Overview
 This project aims to leverage the capabilities of SQL for data cleaning tasks.
 
