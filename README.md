@@ -57,7 +57,7 @@ During the initial data preparation phase, the following tasks were executed:
 - Broke out address into individual columns (Address, City, State)
 - Changed 'Y' and 'N' values to 'YES' and 'NO' in the 'Sold as vacant' field
 - Removed duplicates
-- DDeleted unused columns
+- Deleted unused columns
 
 ### References
 
